@@ -73,3 +73,6 @@ Wonderland Wars ワンダーランドウォーズ
 
 (引き継ぎ)
 Nucleareal
+
+(更に引き継ぎ)
+Setuchan
